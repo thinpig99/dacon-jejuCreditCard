@@ -11,7 +11,7 @@
 - From: Dacon(BC Card)
 
 # Evaluation
-- Final Score : 0.000(RMSLE)
-- Final Rank : 00
-- Final Rank Ratio : 00.0%
+- Final Score : 1.76278(RMSLE)
+- Final Rank : 3
+- Final Rank Ratio : 0.7%
 
