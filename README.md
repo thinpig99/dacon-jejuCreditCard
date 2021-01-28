@@ -11,7 +11,6 @@
 - From: Dacon(BC Card)
 
 # Evaluation
-- Final Score : 1.76278(RMSLE)
-- Final Rank : 3
-- Final Rank Ratio : 0.7%
-
+- Metric: RMSLE
+- Public Score : 
+- Private Score: 3rd(0.7%) / 1.76278
