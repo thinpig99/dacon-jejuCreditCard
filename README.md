@@ -7,7 +7,7 @@
 
 # Data
 - Data: Credit Card Data
-- Shape: (26,048,114, 12)
+- Shape: (26,048,114 * 12)
 - From: Dacon(BC Card)
 
 # Evaluation
